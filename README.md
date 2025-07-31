@@ -1,11 +1,11 @@
-##Test Automation Project
+## Test Automation Project
 To ensure that the Insider homepage, navigation, and QA job listings function as expected.
 The test validates that listings filtered by location and department are shown correctly and
 that "View Role" redirects to the application form.
 
 ---
 
-###Test Steps
+### Test Steps
 1. Visit https://useinsider.com/ and check if the Insider homepage is successfully
 opened.
 2. Click the “Company” menu from the navigation bar, then select “Careers”. Verify
